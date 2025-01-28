@@ -93,9 +93,9 @@ Para clonar este repositório e ter uma cópia local da lista, siga estes passos
 
 ## Uso
 
-Este repositório é principalmente para fins informativos. Você pode navegar pela lista de linguagens no README ou explorar quaisquer recursos adicionais fornecidos no repositório.
+Este repositório é principalmente para fins informativos. Você pode navegar pela lista de linguagens no `README` ou explorar quaisquer recursos adicionais fornecidos no repositório.
 
-Para atualizar a lista ou adicionar informações mais detalhadas sobre uma linguagem, edite o arquivo README.md.
+Para atualizar a lista ou adicionar informações mais detalhadas sobre uma linguagem, edite o arquivo `README.md`.
 
 ## Contribuindo
 
