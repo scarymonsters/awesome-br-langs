@@ -51,6 +51,13 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 
 - Criada em: 2020
 - Criador: Lucas Pompeu Neves
-- Instituição:  Instituto Federal do Pará (IFPA)
+- Instituição: Instituto Federal do Pará (IFPA)
 - Descrição: Linguagem de programação de alto nível, de propósito geral, orientada a objetos e com tipagem dinâmica. Foi criada com foco educacional, visando facilitar o aprendizado de conceitos fundamentais de programação.
+
+### Lean
+
+- Criada em: 2013
+- Criador: LEonardo de Moura
+- Instituição: Projeto open-source
+- Descrição: Linguagem de programação funcional e assistente de prova, voltado para lógica matemática, verificação formal de teoremas e programação baseada em tipos dependentes.
   
