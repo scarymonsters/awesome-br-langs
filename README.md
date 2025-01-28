@@ -1,4 +1,4 @@
-# Linguagens de Programação criadas por brasileiros 🇧🇷
+# Linguagens de Programação criadas por brasileiros 
 
 Este projeto tem como objetivo mostrar as contribuições de cientistas da computação e desenvolvedores brasileiros para o campo de design e implementação de linguagens de programação.
 
