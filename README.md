@@ -10,7 +10,7 @@ Este projeto tem como objetivo mostrar as contribuições de cientistas da compu
 
 ## Sobre
 
-Este repositório serve como um recurso abrangente para qualquer pessoa interessada em explorar linguagens de programação com origens brasileiras. Inclui tanto linguagens amplamente adotadas quanto outras experimentais e menos conhecidas, mostrando a diversidade e inovação na comunidade tecnológica brasileira.
+Este repositório serve como um recurso abrangente para qualquer pessoa interessada em explorar **linguagens de programação** com origens brasileiras. Inclui tanto linguagens amplamente adotadas quanto outras experimentais e menos conhecidas, mostrando a diversidade e inovação na comunidade tecnológica brasileira.
 
 ## Linguagens
 
