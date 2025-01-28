@@ -81,4 +81,8 @@ Para clonar este repositório e ter uma cópia local da lista, siga estes passos
 Este repositório é principalmente para fins informativos. Você pode navegar pela lista de linguagens no README ou explorar quaisquer recursos adicionais fornecidos no repositório.
 
 Para atualizar a lista ou adicionar informações mais detalhadas sobre uma linguagem, edite o arquivo README.md.
+
+## Contribuindo
+
+Nós damos as boas-vindas às contribuições para esta lista! Se você conhece uma linguagem de programação criada por um desenvolvedor brasileiro que não está listada aqui, ou se você tem informações adicionais ou correções, sinta-se à vontade para contribuir.
   
