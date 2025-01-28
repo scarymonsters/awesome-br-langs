@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="">
+    <img alt="Logo" src="brazil.png" min-width="250px" max-width="250px" width="250px" align="center">  
+  </a>
+</p>
+
 # Linguagens de Programação criadas por brasileiros 
 
 Este projeto tem como objetivo mostrar as contribuições de cientistas da computação e desenvolvedores brasileiros para o campo de design e implementação de linguagens de programação.
