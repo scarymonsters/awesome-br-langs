@@ -103,12 +103,12 @@ Nós damos as boas-vindas às contribuições para esta lista! Se você conhece 
 
 Por favor, certifique-se de que seu pull request adere às seguintes diretrizes:
 
-- Use o formato fornecido para consistência
-- Escreva descrições claras e concisas
-- Verifique sua ortografia e gramática
-- Certifique-se de que seu editor de texto está configurado para remover espaços em branco no final das linhas
+- Use o formato fornecido para consistência.
+- Escreva descrições claras e concisas.
+- Verifique sua ortografia e gramática.
+- Certifique-se de que seu editor de texto está configurado para remover espaços em branco no final das linhas.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT
+Este projeto está licenciado sob a Licença MIT.
   
