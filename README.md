@@ -66,5 +66,5 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 - Criada em: 2016
 - Criador: Luiz Peres
 - Instituição: Projeto open-source
-- Descrição: Linguagem de programação esotérica, baseada em Brainfu
+- Descrição: Linguagem de programação esotérica, baseada em Brainfuck.
   
