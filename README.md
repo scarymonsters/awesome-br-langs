@@ -57,7 +57,7 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 ### Lean
 
 - Criada em: 2013
-- Criador: LEonardo de Moura
+- Criador: Leonardo de Moura
 - Instituição: Projeto open-source
 - Descrição: Linguagem de programação funcional e assistente de prova, voltado para lógica matemática, verificação formal de teoremas e programação baseada em tipos dependentes.
 
