@@ -101,6 +101,13 @@ Para atualizar a lista ou adicionar informações mais detalhadas sobre uma ling
 
 Nós damos as boas-vindas às contribuições para esta lista! Se você conhece uma linguagem de programação criada por um desenvolvedor brasileiro que não está listada aqui, ou se você tem informações adicionais ou correções, sinta-se à vontade para contribuir.
 
+Por favor, certifique-se de que seu pull request adere às seguintes diretrizes:
+
+- Use o formato fornecido para consistência
+- Escreva descrições claras e concisas
+- Verifique sua ortografia e gramática
+- Certifique-se de que seu editor de texto está configurado para remover espaços em branco no final das linhas
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT
