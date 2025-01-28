@@ -60,4 +60,11 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 - Criador: LEonardo de Moura
 - Instituição: Projeto open-source
 - Descrição: Linguagem de programação funcional e assistente de prova, voltado para lógica matemática, verificação formal de teoremas e programação baseada em tipos dependentes.
+
+### Brain
+
+- Criada em: 2016
+- Criador: Luiz Peres
+- Instituição: Projeto open-source
+- Descrição: Linguagem de programação esotérica, baseada em Brainfu
   
