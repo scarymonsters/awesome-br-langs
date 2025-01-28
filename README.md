@@ -31,7 +31,7 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 
 - Criada em: 2003
 - Criador: Rodrigo B. de Oliveira
-- Descrição: Uma linguagem de programação orientada a objetos, estaticamente tipada para as            - plataformas .NET e Mono com uma sintaxe inspirada em Python.
+- Descrição: Uma linguagem de programação orientada a objetos, estaticamente tipada para as plataformas .NET e Mono com uma sintaxe inspirada em Python.
 
 ### Potigol
 
@@ -45,4 +45,12 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 - Criada em: 2012
 - Criador: Francisco Sant'Anna
 - Instituição: PUC-Rio (Pontifícia Universidade Católica do Rio de Janeiro)
-- Descrição: Uma linguagem reativa que visa oferecer uma alternativa de mais alto nível e mais segura   ao C para programação de sistemas reativos.
+- Descrição: Uma linguagem reativa que visa oferecer uma alternativa de mais alto nível e mais segura ao C para programação de sistemas reativos.
+
+### Égua
+
+- Criada em: 2020
+- Criador: Lucas Pompeu Neves
+- Instituição:  Instituto Federal do Pará (IFPA)
+- Descrição: Linguagem de programação de alto nível, de propósito geral, orientada a objetos e com tipagem dinâmica. Foi criada com foco educacional, visando facilitar o aprendizado de conceitos fundamentais de programação.
+  
