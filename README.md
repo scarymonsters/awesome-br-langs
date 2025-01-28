@@ -68,6 +68,13 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 - Instituição: Projeto open-source
 - Descrição: Linguagem de programação esotérica, baseada em Brainfuck.
 
+### Birl
+
+Criada em: 2016
+Criador: Leonardo Padilha
+Instituição: Independente
+Descrição: Linguagem de programação esotérica inspirada em um meme do influencer Kleber Bambam. BIRL utiliza comandos humorísticos e expressões em português para criar uma experiência descontraída e cômica de codificação.
+
 ## Instalação
 
 Para clonar este repositório e ter uma cópia local da lista, siga estes passos:
