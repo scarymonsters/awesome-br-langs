@@ -17,7 +17,7 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 ### Lua
 
 - Criada em: 1993
-- Criadores: Roberto Ierusalimschy, Luiz Henrique de Figueiredo, Waldemar Celes
+- Criadores: Roberto Ierusalimschy, Luiz Henrique de Figueiredo e Waldemar Celes
 - Instituição: PUC-Rio (Pontifícia Universidade Católica do Rio de Janeiro)
 - Descrição: Uma linguagem de programação leve, de alto nível e multiparadigma, projetada principalmente para uso embutido em aplicações.
 
@@ -25,6 +25,7 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 
 - Criada em: 2011
 - Criador: José Valim
+- Instituição: Plataformatec
 - Descrição: Uma linguagem de programação funcional, concorrente e de propósito geral que roda na máquina virtual Erlang (BEAM).
 
 ### Boo
