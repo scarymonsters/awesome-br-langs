@@ -10,7 +10,7 @@ Este projeto tem como objetivo mostrar as contribuições de cientistas da compu
 
 ## Sobre
 
-Este repositório serve como um recurso abrangente para qualquer pessoa interessada em explorar linguagens de programação com origens brasileiras. Inclui tanto linguagens amplamente adotadas quanto outras experimentais menos conhecidas, mostrando a diversidade e inovação na comunidade tecnológica brasileira.
+Este repositório serve como um recurso abrangente para qualquer pessoa interessada em explorar linguagens de programação com origens brasileiras. Inclui tanto linguagens amplamente adotadas quanto outras experimentais e menos conhecidas, mostrando a diversidade e inovação na comunidade tecnológica brasileira.
 
 ## Linguagens
 
@@ -67,4 +67,18 @@ Este repositório serve como um recurso abrangente para qualquer pessoa interess
 - Criador: Luiz Peres
 - Instituição: Projeto open-source
 - Descrição: Linguagem de programação esotérica, baseada em Brainfuck.
+
+## Instalação
+
+Para clonar este repositório e ter uma cópia local da lista, siga estes passos:
+
+```git clone https://https://github.com/scarymonsters/awesome-br-langs.git```
+
+```cd awesome-br-langs```
+
+## Uso
+
+Este repositório é principalmente para fins informativos. Você pode navegar pela lista de linguagens no README ou explorar quaisquer recursos adicionais fornecidos no repositório.
+
+Para atualizar a lista ou adicionar informações mais detalhadas sobre uma linguagem, edite o arquivo README.md.
   
